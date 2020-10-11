@@ -1,7 +1,0 @@
-name: acr login
-
-- uses: azure/docker-login@v1
-  with:
-    login-server: 'acrphoenixproject.azurecr.io' # default: index.docker.io
-    username: 'acrphoenixproject'
-    password: 'DrjqE3JSTXUFZVmoEp+OkEJrVHBcwt0W'
